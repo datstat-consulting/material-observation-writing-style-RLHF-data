@@ -1,0 +1,32 @@
+{
+  "dataset_name": "material_observation_style_preference_pairs",
+  "version": "1.0",
+  "record_count": 100,
+  "format": "jsonl",
+  "task_type": "RLHF/DPO preference pairs for prose style",
+  "fields": {
+    "id": "stable record id",
+    "category": "targeted style constraint",
+    "prompt": "instruction/input for model",
+    "rejected": "undesired output violating one or more constraints",
+    "chosen": "preferred output matching constraints",
+    "rubric": "human-readable reason the chosen output should be preferred"
+  },
+  "global_style_rules": [
+    "Favor concrete observable behavior over abstract summaries.",
+    "Favor physical action, dialogue, documents, and material details.",
+    "Let Dominic infer only from visible evidence.",
+    "Prefer accumulated implication through recurrence over thesis narration.",
+    "Use grounded trade speech rather than aphoristic abstraction.",
+    "Use interruption and overlap in dialogue.",
+    "Embed dry humor socially through character reaction.",
+    "Show layered coexistence instead of reductive 'X was really Y' claims.",
+    "Continue physical motion instead of ending on symmetrical literary punchlines.",
+    "Show emotion through bodily or social manifestation.",
+    "Show competence through procedure and tool choice."
+  ],
+  "license": "CC-BY-4.0",
+  "license_name": "Creative Commons Attribution 4.0 International",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Material Observation Style RLHF Dataset, version 1.0"
+}
