@@ -56,42 +56,6 @@ Loaded 100 records
 No validation errors found
 ```
 
-## Create and push a GitHub repo
-
-### Option A: GitHub CLI
-
-```bash
-cd material-observation-style-rlhf
-git init
-git add .
-git commit -m "Initial dataset release"
-gh repo create material-observation-style-rlhf --public --source=. --remote=origin --push
-```
-
-Use `--private` instead of `--public` for a private repository.
-
-### Option B: GitHub website
-
-1. Create a new empty GitHub repo named `material-observation-style-rlhf`.
-2. Do not initialize it with a README, license, or `.gitignore`.
-3. Run:
-
-```bash
-cd material-observation-style-rlhf
-git init
-git add .
-git commit -m "Initial dataset release"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/material-observation-style-rlhf.git
-git push -u origin main
-```
-
-## Suggested repository topics
-
-```text
-rlhf, dpo, preference-dataset, writing-style, creative-writing, prose-style, reward-modeling
-```
-
 ## License
 
 This dataset is released under **Creative Commons Attribution 4.0 International (`CC-BY-4.0`)**.
