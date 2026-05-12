@@ -1,0 +1,48 @@
+{
+  "dataset_name": "dialogue_failure_modes_preference_dataset",
+  "version": "1.0",
+  "record_count": 120,
+  "format": [
+    "jsonl",
+    "csv"
+  ],
+  "task_type": "RLHF/DPO preference pairs for dialogue style correction",
+  "license": "CC-BY-4.0",
+  "license_name": "Creative Commons Attribution 4.0 International",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Dialogue Failure Modes Preference Dataset, version 1.0",
+  "fields": {
+    "id": "stable record id",
+    "category": "targeted dialogue failure mode",
+    "prompt": "instruction/input for model",
+    "rejected": "undesired dialogue showing the failure mode",
+    "chosen": "preferred dialogue that stays functional, concrete, and scene-bound",
+    "rubric": "human-readable reason the chosen output should be preferred"
+  },
+  "categories": [
+    "abstract_nouns_abstract_verbs",
+    "clipped_dialogue_false_efficiency",
+    "competence_as_performance",
+    "function_first_revision",
+    "neat_symmetry_rule_of_three",
+    "noun_prompt_problem",
+    "perfectly_framed_thought",
+    "quip_reflex",
+    "responses_through_work_not_banter",
+    "self_aware_dialogue",
+    "theme_explained_too_directly",
+    "trailer_line_ending"
+  ],
+  "global_style_rules": [
+    "Prefer procedural speech over punchlines.",
+    "Make dialogue serve an instruction, report, objection, correction, warning, request, or explanation.",
+    "Avoid clipped category prompts that sound like form fields.",
+    "Use grammar, sequence, and breath in compressed speech.",
+    "Break neat triads and over-balanced rhetorical structures.",
+    "Use concrete agents instead of abstract nouns performing abstract verbs.",
+    "Avoid trailer-line endings that turn toward the audience.",
+    "Let actions, objects, and records carry thematic implications.",
+    "Show competence through executable orders, constraints, timing, and failure anticipation.",
+    "Let secondary characters respond through work rather than banter."
+  ]
+}

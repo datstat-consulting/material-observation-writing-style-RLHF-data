@@ -1,0 +1,229 @@
+id,category,prompt,rejected,chosen,rubric
+dialogue_away_001,quip_reflex,Rewrite the officer's line so it gives practical instructions instead of landing as a quip.,Mara looked at the blocked lane. “Then make the road invite them.”,"Mara looked at the blocked lane. “Leave the center clear. Put the loose boards near the left gutter so the first cart slows there, not at the corner.”",The chosen line is executable and situation-bound; it does not posture as a punchline.
+dialogue_away_002,quip_reflex,Replace the polished final-sounding line with a working instruction.,Luis folded the note. “Leave them nothing clean to answer.”,"Luis folded the note. “Do not give them one number to deny. Send the weights, the delivery times, and the gate receipt together.”",The chosen line turns the idea into a concrete document-handling instruction.
+dialogue_away_003,quip_reflex,"Make this line sound like someone solving the immediate problem, not naming the theme.",Anna watched the water rise under the door. “Then let the house choose.”,"Anna watched the water rise under the door. “Move the rugs first. Bob, shut the kitchen breaker. I’ll block the gap with towels until the pump starts.”",The chosen dialogue participates in the scene's work.
+dialogue_away_004,quip_reflex,Rewrite the line so the speaker sounds competent without sounding theatrical.,Ken checked the empty loading bay. “Then we teach the schedule to bleed.”,"Ken checked the empty loading bay. “Hold the second truck until the freezer pallets are counted. If the clerk asks, the delay started at Receiving.”","Competence is shown through timing, accountability, and logistics."
+dialogue_away_005,quip_reflex,Remove the cinematic punchline from the exchange.,Inez slid the invoice across the desk. “Make the lie expensive.”,"Inez slid the invoice across the desk. “Ask for the original scale ticket. If they cannot produce it, hold payment on all three shipments.”",The chosen version replaces cleverness with a concrete administrative action.
+dialogue_away_006,quip_reflex,Turn the quip into dialogue that would change what the other character does next.,Omar looked at the dark platform. “Let the night do the paperwork.”,"Omar looked at the dark platform. “Use the east lamp only. If they count from the west end, they’ll miss the last two crates.”",The chosen line creates an operational effect.
+dialogue_away_007,quip_reflex,Rewrite the line so it does not feel written for the reader.,Ruth took the broken key. “Locks remember who lies.”,Ruth took the broken key. “This snapped after it turned. Someone opened the drawer and tried to make it look forced.”,The chosen line reports evidence rather than making an aphoristic claim.
+dialogue_away_008,quip_reflex,Make the line practical and partial instead of cleanly resolved.,Jin tied off the rope. “Then gravity can sign for it.”,"Jin tied off the rope. “Lower the crate from this side. If the knot slips, it drops into mud, not onto feet.”","The chosen line is partial, task-specific, and usable."
+dialogue_away_009,quip_reflex,Replace the self-aware cool line with a grounded response.,Mae glanced at the broken window. “Then we make the glass testify.”,"Mae glanced at the broken window. “Do not sweep yet. The larger pieces are inside the room, so it broke from the alley.”",The chosen line ties inference to physical evidence.
+dialogue_away_010,quip_reflex,Rewrite so the speaker gives direction instead of dominance.,Sal looked at the jammed press. “Then let the machine learn patience.”,Sal looked at the jammed press. “Kill the belt. Do not pull the sheet until I wedge the roller open.”,The chosen line directs action under pressure.
+dialogue_away_011,clipped_dialogue_false_efficiency,Rewrite the noun-only exchange into compressed but human working dialogue.,"“Route?”
+“Alley.”
+“Guard?”
+“Two.”
+“Exit?”
+“South.”","“Say the walk back.”
+“Through the alley until the bakery door. Two guards at the south gate. If they turn us, we cut behind the washhouse and come out by the coal bins.”","The chosen exchange has shared context, sequence, and breath."
+dialogue_away_012,clipped_dialogue_false_efficiency,"Make this short dialogue sound like trained people, not an interface.","“Object?”
+“Pump.”
+“Status?”
+“Failed.”
+“Action?”
+“Replace.”","“What failed?”
+“The pump turns, but it isn’t drawing. Belt is sound. Intake is probably packed again. I can clear it if Luis shuts the line.”",The chosen answer preserves efficiency while using diagnosis and conditions.
+dialogue_away_013,clipped_dialogue_false_efficiency,Replace the checklist-theater rhythm with realistic compact reporting.,"“Count?”
+“Eight.”
+“Loaded?”
+“Six.”
+“Missing?”
+“Two.”","“How short are we?”
+“Two crates. Six loaded, eight on the ticket. Either Packing kept them or the ticket was written before the last cart came in.”",The chosen line reports the useful discrepancy in full enough speech.
+dialogue_away_014,clipped_dialogue_false_efficiency,Rewrite the compressed exchange so context carries the omissions.,"“Door?”
+“Back.”
+“Lock?”
+“Cut.”
+“Time?”
+“Ten.”","“Where did they come in?”
+“Back door. Lock was cut clean, not kicked. Neighbor heard the dog at ten, so they were still in the yard then.”",The chosen dialogue is concise but not robotic.
+dialogue_away_015,clipped_dialogue_false_efficiency,Make the exchange terse without reducing it to field labels.,"“Signal?”
+“Red.”
+“Meaning?”
+“Delay.”
+“Cause?”
+“Track.”","“Why are they holding us?”
+“Red lamp at the west post. Track crew is still on the bend. If they clear before noon, we can keep the milk cold.”","The chosen version uses cause, timing, and consequence."
+dialogue_away_016,clipped_dialogue_false_efficiency,Turn the bad clipped military-style dialogue into plausible workplace speech.,"“Breach?”
+“Window.”
+“Loss?”
+“Cash.”
+“Witness?”
+“None.”","“What did they take?”
+“Cash drawer only. Window latch is bent, but the glass fell outside. Whoever opened it knew the latch was bad.”",The chosen answer reports facts in an order useful to the listener.
+dialogue_away_017,clipped_dialogue_false_efficiency,"Rewrite as a trained handoff, not isolated nouns.","“Patient?”
+“Boy.”
+“Injury?”
+“Knee.”
+“Guardian?”
+“Outside.”","“What have we got?”
+“Boy, maybe seven. Knee full of gravel, wrist sore, mother outside trying not to faint again.”","The chosen version is efficient and human, with priorities intact."
+dialogue_away_018,clipped_dialogue_false_efficiency,Make the exchange sound like a repair crew coordinating.,"“Valve?”
+“North.”
+“Pressure?”
+“High.”
+“Tool?”
+“Wrench.”","“Which valve?”
+“North line. Pressure is still too high. Don’t put a wrench on it until Sam opens the bleed screw.”",The chosen line embeds the safety condition.
+dialogue_away_019,clipped_dialogue_false_efficiency,"Rewrite so the clipped speech depends on shared context, not labels.","“Roof?”
+“Leaking.”
+“Bucket?”
+“Full.”
+“Ladder?”
+“Gone.”","“Is it still dripping over the fuse box?”
+“Worse. Bucket’s full and the ladder’s in Theo’s van. I moved the receipts before they got wet.”",The chosen dialogue compresses around what matters.
+dialogue_away_020,clipped_dialogue_false_efficiency,Turn this exchange into compact speech with grammar and stakes.,"“Team?”
+“Second.”
+“Backup?”
+“None.”
+“Risk?”
+“Flood.”","“Who is still there?”
+“Second crew only. No backup until the bridge opens. If the pump quits again, the loading pit fills first.”",The chosen line gives the listener enough to act.
+dialogue_away_021,noun_prompt_problem,Rewrite so the speaker does not just invoke a category word.,Bob looked at Anna. “Breaker?”,"Bob looked toward the panel. “Did you shut the main, or only the basement line?”",The chosen line asks the actual question instead of naming a field.
+dialogue_away_022,noun_prompt_problem,Replace the single abstract prompt word with action carrying the question.,Mara pointed at the invoice. “Weight?”,Mara tapped the total with her thumb. “That crate did not weigh this much when Luis carried it alone.”,The chosen version lets the object and discrepancy carry the issue.
+dialogue_away_023,noun_prompt_problem,Make the line terse without sounding like a form field.,Luis glanced at the alley. “Exit?”,Luis glanced at the alley. “Can we get the cart through there if the front gate locks?”,The chosen line keeps the practical question in speech.
+dialogue_away_024,noun_prompt_problem,Rewrite the prompt-word dialogue as actual exchange.,"“Witness?”
+“Grocer.”","“Who saw the cart hit it?”
+“The grocer. He was outside stacking apples and yelled before the wheel reached the post.”",The chosen answer supplies scene-bound information.
+dialogue_away_025,noun_prompt_problem,Replace noun-tag dialogue with a physical cue and response.,Anna looked at the ceiling. “Leak?”,Anna held her palm under the ceiling stain. A drop struck her knuckle. “It’s coming through the old patch.”,The chosen version lets embodied action carry the inquiry.
+dialogue_away_026,noun_prompt_problem,Make the dialogue less robotic while staying concise.,"“Inventory?”
+“Short.”","“How many are missing?”
+“Four tins from the lower shelf. The count sheet was right yesterday.”",The chosen line includes the useful number and comparison.
+dialogue_away_027,noun_prompt_problem,Rewrite the category prompt into a line that fits the immediate work.,Ken looked at the blocked drain. “Cause?”,Ken lifted the grate with two fingers. “Someone swept leaves into this yesterday and called it cleaning.”,The chosen line reports a cause through visible inspection.
+dialogue_away_028,noun_prompt_problem,Replace the single-word prompt with a practical line.,Ruth held up the broken hinge. “Tool?”,Ruth held up the broken hinge. “Bring the short screwdriver. The long one will strip these heads.”,The chosen version tells someone what to do and why.
+dialogue_away_029,noun_prompt_problem,Turn the noun prompt into implied context plus reply.,"“Relief?”
+“None.”","Nia checked the clock over the washbasin. “Has anyone come for second shift?”
+“No. We have the room until noon unless Tom finds another nurse.”",The chosen dialogue sounds like people in a specific situation.
+dialogue_away_030,noun_prompt_problem,Rewrite the tag-word exchange into scene-bound speech.,"“Paper?”
+“Filed.”","“Where is the complaint now?”
+“In the blue folder, behind the permit copies. I filed it before Grant came looking.”","The chosen answer gives location, timing, and purpose."
+dialogue_away_031,neat_symmetry_rule_of_three,Break the balanced three-part rhythm into a more natural operational sentence.,"“We decide where the carts go, where the guards stand, and which door becomes useful.”",“Put the carts by the side door. The guards can work from there without blocking the stair.”,The chosen line compresses related ideas instead of displaying a triad.
+dialogue_away_032,neat_symmetry_rule_of_three,Rewrite the sentence so it does not announce its own structure.,"“Check the roof, clear the drain, and count the missing tools.”","“Clear the drain first. If the roof is still leaking after that, we count tools somewhere dry.”",The chosen version uses priority and conditional sequence.
+dialogue_away_033,neat_symmetry_rule_of_three,Remove the rhetorical balance from this line.,"“She needs the name, the number, and the nerve to use both.”",“Give her the account number and the delivery name. She can decide how hard to press them.”,The chosen line is less symmetrical and more practical.
+dialogue_away_034,neat_symmetry_rule_of_three,Rewrite the displayed list as speech arising from the situation.,"“They control the gate, the ledger, and the story.”","“They have the gatehouse copy. If we cannot find our receipt, their version becomes the only one on the desk.”",The chosen line ties control to a concrete document problem.
+dialogue_away_035,neat_symmetry_rule_of_three,Break the neat triad and make it sound spoken.,"“We need rope for the crate, chalk for the marks, and silence for the work.”","“Bring rope for the crate. Chalk too, if the rain hasn’t ruined it. And stop talking once we start lifting.”",The chosen rhythm is uneven and task-bound.
+dialogue_away_036,neat_symmetry_rule_of_three,Turn the balanced sentence into less polished dialogue.,"“The rain hides our tracks, slows their horses, and forgives our mistakes.”","“The rain helps with tracks. It also makes the lower road useless, so do not count on speed.”",The chosen version resists the over-composed triple structure.
+dialogue_away_037,neat_symmetry_rule_of_three,Rewrite the line to avoid the dramatic three-part cadence.,"“Lock the drawer, burn the copy, and pray the ink forgets.”","“Lock the drawer. Keep the copy. If we burn it, the missing page is the first thing they will notice.”",The chosen line adds practical correction rather than landing on a flourish.
+dialogue_away_038,neat_symmetry_rule_of_three,Make this line less arranged and more useful.,"“He bought the clerk, bent the rule, and buried the result.”",“He paid the clerk before the permit hearing. That is why the old inspection note disappeared.”,The chosen line replaces rhetorical symmetry with causality.
+dialogue_away_039,neat_symmetry_rule_of_three,Remove the list-like rhythm while preserving meaning.,"“The door gives us cover, the alley gives us distance, and the cart gives us speed.”","“Use the side door. The alley is narrow enough to slow them, and the cart gets the box out before anyone reaches the corner.”",The chosen line is sequential rather than symmetrically arranged.
+dialogue_away_040,neat_symmetry_rule_of_three,Rewrite the polished triad as an immediate instruction.,"“Mark the wall, move the chairs, and make the room tell us where he stood.”",“Leave the chairs where they are. Mark the scrape on the wall before anyone leans on it.”,The chosen line prioritizes evidence over display rhythm.
+dialogue_away_041,abstract_nouns_abstract_verbs,Replace abstract concepts acting with concrete agents.,“Registry turns delay into consent.”,"“If the clerk stamps it today and no one answers by Friday, the office will treat silence as approval.”","The chosen line names people, actions, and timing."
+dialogue_away_042,abstract_nouns_abstract_verbs,Rewrite the concept-heavy line as working dialogue.,“Debt moves authority out of the room.”,"“The bank has the payment order. The manager can argue, but he cannot release the stock without their signature.”",The chosen version shows authority through a concrete mechanism.
+dialogue_away_043,abstract_nouns_abstract_verbs,Make this explanation less essay-like in dialogue.,“Distance makes refusal plausible.”,"“By the time they reach the north office, Powell can say the message never arrived.”",The chosen line uses a person and a specific failure path.
+dialogue_away_044,abstract_nouns_abstract_verbs,Replace abstract agents with concrete ones.,“Procedure protects the lie.”,“First the clerk asks for the blue copy. Then the supervisor says the blue copy is missing. By then no one is talking about the spoiled flour.”,The chosen version breaks procedure into actions.
+dialogue_away_045,abstract_nouns_abstract_verbs,Rewrite the sentence so people and objects do the work.,“Signal carries command into the yard.”,"“When the lamp changes, the foreman moves the carts. Nobody waits for a messenger once the west post is lit.”",The chosen line shows signal functioning through workers' behavior.
+dialogue_away_046,abstract_nouns_abstract_verbs,Make the line concrete enough to belong in a scene.,“Fire makes hesitation expensive.”,"“If they pause in the doorway, the stove line can see them. That is why they will rush the left wall.”",The chosen line ties consequence to position and action.
+dialogue_away_047,abstract_nouns_abstract_verbs,Rewrite the abstract formulation as practical speech.,“Paper makes force look ordinary.”,"“Once the eviction notice is pinned up, the constables can say they are only clearing a listed property.”","The chosen line names the paper, the agents, and the excuse."
+dialogue_away_048,abstract_nouns_abstract_verbs,Avoid abstract nouns acting like characters.,“Weather erases accountability.”,"“If it rains tonight, Grant will blame the missing timber on flood damage and close the yard before anyone counts.”","The chosen line uses weather as condition, not agent."
+dialogue_away_049,abstract_nouns_abstract_verbs,Rewrite as dialogue with concrete actors and varied sentence function.,“Inspection manufactures obedience.”,"“When the inspector arrives, the crew stops using the side door. Not because it is safer. Because he writes down who ignores the sign.”","The chosen line mixes observation, correction, and consequence."
+dialogue_away_050,abstract_nouns_abstract_verbs,Turn the essay-like sentence into practical explanation.,“Legibility produces control.”,"“Once they number the stalls, they can fine the woman in stall twelve without learning her name.”",The chosen line grounds the idea in a concrete administrative action.
+dialogue_away_051,trailer_line_ending,Replace the thematic sting at the end with continuing work.,Anna tied the bandage. “And now the room knows who bled.”,"Anna tied the bandage. “Hold this here. Bob, wash the scissors before Nia asks for them.”",The chosen ending stays inside the work instead of turning toward the audience.
+dialogue_away_052,trailer_line_ending,Make the ending less like a trailer line.,Mara looked at the sealed crate. “Then we leave them a silence they can count.”,"Mara looked at the sealed crate. “Put it on the third shelf, not the second. If they count from the invoice, they will start there.”",The chosen line gives an action and reason instead of a dramatic final clause.
+dialogue_away_053,trailer_line_ending,Rewrite the final line so it does not know it is the final line.,Luis shut the gate. “No one leaves clean.”,Luis shut the gate. “Wipe the latch after me. The paint is still wet.”,The chosen line continues the scene's physical problem.
+dialogue_away_054,trailer_line_ending,Remove the grand finality and keep the scene operational.,Ruth folded the warrant. “Let the law arrive hungry.”,Ruth folded the warrant. “Give them the front room and keep the back cabinet locked. They only listed the front room.”,The chosen line uses legal detail as practical constraint.
+dialogue_away_055,trailer_line_ending,Turn the trailer-line ending into a less polished tactical line.,"Omar checked the empty street. “By morning, even the stones will deny us.”",Omar checked the empty street. “By morning the rain will soften the tracks. Move before the gutter backs up.”,The chosen line converts atmosphere into timing and terrain.
+dialogue_away_056,trailer_line_ending,Rewrite the line so it does not land as the scene's theme.,Jin lifted the crate. “This is how the small become dangerous.”,Jin lifted the crate. “Too heavy for one. Take the far handle before it twists.”,The chosen line stays with bodily effort and immediate risk.
+dialogue_away_057,trailer_line_ending,Replace the polished sting with ordinary continuation.,Mae turned off the lamp. “Darkness keeps better records.”,Mae turned off the lamp. “Keep your hand on the rail. The third step is loose.”,The chosen line makes the darkness a practical hazard.
+dialogue_away_058,trailer_line_ending,Make the final line less theatrical.,Ken looked at the leaking roof. “Then let the rain file its complaint.”,Ken looked at the leaking roof. “Move the forms first. The complaint box can get wet; the payroll cannot.”,The chosen line uses priorities instead of a witty conclusion.
+dialogue_away_059,trailer_line_ending,Rewrite the ending as working speech.,Nia closed the clinic door. “Pain has already signed in.”,Nia closed the clinic door. “Put the boy near the basin. I need water before I need names.”,The chosen line orders tasks by medical urgency.
+dialogue_away_060,trailer_line_ending,Avoid the last-line posture.,Sal pulled the lever. “Now the machine tells the truth.”,"Sal pulled the lever. “Listen for the second knock. If it comes before the belt catches, shut it down.”",The chosen line creates an ongoing procedural test.
+dialogue_away_061,theme_explained_too_directly,Rewrite the dialogue so the system is revealed through work rather than stated as theme.,"“The office turns labor into numbers, and numbers turn injury into delay.”","Anna pointed to the injury column. “They put Mateo under delay, not accident. If it stays there, he loses the doctor’s pay.”",The chosen line ties the systemic issue to a specific form entry and consequence.
+dialogue_away_062,theme_explained_too_directly,Make this less didactic and more scene-bound.,"“The landlord controls the hall by controlling light, heat, and repair.”",“He fixed the front bulb and left the back stairs dark. That is why Mrs. Pell fell where no one signs for deliveries.”,The chosen line uses maintenance choices and a concrete fall.
+dialogue_away_063,theme_explained_too_directly,Avoid making the character explain the whole theory.,"“First they measure us, then they price us, then they replace us.”",“They counted how many trays each baker filled before they brought in the new machine.”,The chosen line lets one specific sequence imply the larger system.
+dialogue_away_064,theme_explained_too_directly,Let the process reveal the implication instead of having the speaker name it.,"“Every receipt is a leash, and every clerk holds part of the rope.”",“The grocer has one receipt. The carrier has the other. We cannot challenge the shortage unless both numbers disagree with theirs.”,The chosen line explains the operational constraint without metaphorical thesis.
+dialogue_away_065,theme_explained_too_directly,Rewrite theme-heavy dialogue into practical coordination.,“Their map makes our neighborhood easier to sell.”,"“They renamed the alley access on the map. If we do not correct it before filing, they can list the courtyard as empty space.”",The chosen line attaches the theme to a map detail and filing deadline.
+dialogue_away_066,theme_explained_too_directly,Remove the clean conceptual order from the explanation.,"“Inspection observes, payroll disciplines, and eviction completes the design.”","“After inspection, they cut three shifts. Then the rent notices arrived for the same three families.”",The chosen line uses sequence and repeated names instead of conceptual ordering.
+dialogue_away_067,theme_explained_too_directly,Make the dialogue less like an essay and more like characters handling objects.,“The key is symbolic access made material.”,"Ruth held up the smaller key. “This opens the side cabinet, not the safe. Whoever had it could change the files but not take the cash.”",The chosen line ties meaning to a specific object's function.
+dialogue_away_068,theme_explained_too_directly,Replace direct subtext with staff/process work.,“The company wins by making our refusal look like disorder.”,"“Keep the queue straight. If they photograph a crowd at the door, they will call it a disturbance before noon.”",The chosen line turns political implication into executable crowd management.
+dialogue_away_069,theme_explained_too_directly,Avoid having the speaker state the moral architecture of the scene.,“Their charity is surveillance wearing clean gloves.”,“Do not give them family names on the soup forms. Last week those forms went to the rent office.”,The chosen line uses document movement to imply the danger.
+dialogue_away_070,theme_explained_too_directly,Rewrite the line so the table objects carry the logic.,"“Ledger, lock, and law are three faces of the same control.”","Inez set the ledger beside the key ring. “If this page is missing, the lock log matters. If both are missing, we go to the court copy.”",The chosen line shows how the objects function in sequence.
+dialogue_away_071,self_aware_dialogue,Remove the wink-like classification exchange.,"“Plan?”
+“No. Trap.”
+“Good.”",Mara crossed out the front entrance and circled the loading door. Luis moved the handcart without waiting to be told.,The chosen version lets action show what the plan became.
+dialogue_away_072,self_aware_dialogue,Rewrite so characters do not comment on the cleverness of the phrasing.,"“Receipt?”
+“No. Confession.”
+“Better.”",Anna read the receipt twice and placed it beside the broken scale weight. “He signed for twelve pounds more than the crate could hold.”,The chosen line identifies evidence without meta-commentary.
+dialogue_away_073,self_aware_dialogue,Remove the audience-surrogate reaction.,"“Inventory note?”
+“Alibi.”
+“That is excellent.”","Ken put the inventory note under the time card. The same initials appeared on both, though the shift ended an hour earlier.",The chosen sentence lets the evidence produce the inference.
+dialogue_away_074,self_aware_dialogue,Rewrite as work instead of a clever category correction.,"“Repair order?”
+“No. Warning.”
+“Useful distinction.”",Ruth copied the repair order number onto the leak complaint and marked the ceiling panel nearest the fuse box.,The chosen version shows how the classification changes the work.
+dialogue_away_075,self_aware_dialogue,Make the scene continue rather than stopping for a clever label.,"“Mistake?”
+“No. Pattern.”
+“I was hoping you would say that.”",Omar lined the three invoices by date. Each one lost the same crate between weighing and loading.,The chosen line demonstrates pattern through recurrence.
+dialogue_away_076,self_aware_dialogue,Avoid characters admiring a neat distinction.,"“Complaint?”
+“No. Leverage.”
+“Now you sound dangerous.”",Mae folded the complaint into the rent file. “He answers late notices faster than broken stairs.”,"The chosen line uses administrative behavior, not banter."
+dialogue_away_077,self_aware_dialogue,Rewrite the exchange so the response comes through work.,"“Map?”
+“No. Argument.”
+“Elegant.”",Jin turned the map sideways and drew the delivery route over the alley the owner had labeled unused.,The chosen version makes the map do the argumentative work.
+dialogue_away_078,self_aware_dialogue,Remove the self-aware rhythm and let the scene carry meaning.,"“Delay?”
+“No. Pressure.”
+“Then press back.”","Nia moved the appointment list under the emergency forms. “If they make him wait again, his fever goes on the first page.”",The chosen line links paperwork to consequence without a wink.
+dialogue_away_079,self_aware_dialogue,Rewrite to avoid a clever exchange about what the line is.,"“Note?”
+“No. Fuse.”
+“Careful, then.”",Sal slid the note under the supervisor’s door and kept the carbon copy in his lunch tin.,The chosen version shows caution materially.
+dialogue_away_080,self_aware_dialogue,Replace self-aware classification with concrete activity.,"“Schedule?”
+“No. Map of fear.”
+“That’s cheerful.”",Leah marked the empty shifts in pencil. The same three workers had been moved away from the furnace after the complaint.,The chosen sentence grounds the inference in scheduling changes.
+dialogue_away_081,competence_as_performance,Rewrite the cool line into executable instructions.,Bob watched the loading dock. “Leave it open enough to tempt them.”,Bob watched the loading dock. “Keep the left bay open. Stack the empties beside it so a driver has to slow before backing in.”,The chosen line can be obeyed.
+dialogue_away_082,competence_as_performance,"Make competence procedural, not stylish.",Anna checked the bandage. “Pain is useful if you know where to put it.”,Anna checked the bandage. “Tell me if the numbness reaches your thumb. Pain is fine. Numbness changes what I do next.”,The chosen line shows competence through diagnostic relevance.
+dialogue_away_083,competence_as_performance,Replace performative confidence with real task control.,Mara smiled at the blocked road. “Good. Now it belongs to us.”,Mara looked at the blocked road. “Put one person at each end. No one moves a board until we know whether the gas line runs under it.”,The chosen version anticipates risk and controls timing.
+dialogue_away_084,competence_as_performance,Show a competent manager without a cool declaration.,Ken looked at the ruined stock. “Loss is just inventory with a pulse.”,"Ken looked at the ruined stock. “Separate wet cartons from crushed ones. Insurance wants cause, not grief.”",The chosen line names what matters and ignores what does not.
+dialogue_away_085,competence_as_performance,Rewrite the line so competence appears in constraints.,Ruth set down the screwdriver. “The door opens when it is ready to confess.”,"Ruth set down the screwdriver. “The hinge is bent inward. If we force it from this side, we splinter the frame.”",The chosen line explains material constraint and prevents a bad action.
+dialogue_away_086,competence_as_performance,Replace stylish decisiveness with usable orders.,Luis looked at the crowd. “We make patience look dangerous.”,Luis looked at the crowd. “Open one door only. Give numbers to the first twenty and tell the rest where the line ends.”,The chosen line manages people through specific steps.
+dialogue_away_087,competence_as_performance,"Make the speaker impressive because the plan works, not because the line sounds sharp.",Inez folded the letter. “Then we let the ink bite first.”,"Inez folded the letter. “Send the copy before the meeting starts. If they object later, the receipt time matters.”",The chosen line uses timing and record preservation.
+dialogue_away_088,competence_as_performance,Replace cool competence with anticipation of failure.,Omar checked the rope. “Gravity follows the prepared.”,"Omar checked the rope. “Tie a second line. If the first knot slips, I want the crate swinging, not falling.”",The chosen line anticipates a failure mode.
+dialogue_away_089,competence_as_performance,Rewrite as competence through prioritization.,Nia looked at the crowded clinic. “Triage is mercy with a knife.”,Nia looked at the crowded clinic. “Breathing trouble first. Bleeding second. Paperwork waits unless someone cannot tell us their name.”,The chosen line gives priorities that change action.
+dialogue_away_090,competence_as_performance,Turn performative competence into procedural detail.,Sal listened to the press. “Machines respect fear.”,Sal listened to the press. “The belt is slipping before the roller catches. Shut it down and chalk the pulley before we restart.”,"The chosen line diagnoses, orders, and specifies a check."
+dialogue_away_091,perfectly_framed_thought,Make the line less complete and more like working speech.,"“The lamp serves the gate, and the bell serves the men who cannot see the lamp.”","“The lamp handles the gate. If fog covers it, ring the bell twice.”","The chosen line is simpler, functional, and less rhetorically complete."
+dialogue_away_092,perfectly_framed_thought,Rewrite the complete thematic unit as immediate speech.,"“The warehouse gives us shelter, but it also makes our exit predictable.”",“The warehouse keeps us dry. It also leaves one door. Do not crowd it.”,The chosen line has uneven emphasis and a practical warning.
+dialogue_away_093,perfectly_framed_thought,Make this sound less composed.,"“The receipt proves the sale, but the stain proves when the sale became a lie.”",“The receipt is clean. The stain is not. It was folded before the ink dried.”,The chosen speech breaks the thought into observable points.
+dialogue_away_094,perfectly_framed_thought,Rewrite the over-complete explanation as practical speech.,"“The side door solves the crowd, but it creates a blind corner.”","“Use the side door, but put someone by the coal bin. You cannot see the corner from inside.”",The chosen line connects instruction to one concrete hazard.
+dialogue_away_095,perfectly_framed_thought,Make the dialogue sound like it arises from the immediate problem.,"“The lift gives us speed, and speed is the only mercy left to fragile cargo.”",“Use the lift. Carrying those jars down the stairs is how we lose half of them.”,The chosen line removes ornamental framing and gives a reason.
+dialogue_away_096,perfectly_framed_thought,Revise the line so it is less polished.,"“The rain hides their approach, but it also betrays their weight.”",“Rain covers footsteps. It also leaves ruts. Check the soft ground by the gate.”,The chosen line is direct and includes a task.
+dialogue_away_097,perfectly_framed_thought,Break the perfectly framed thought into working observation.,“The ledger remembers what the foreman hopes the men will forget.”,“The foreman said six hours. The ledger says four. Ask the men before he changes the page.”,The chosen line uses discrepancy and timing.
+dialogue_away_098,perfectly_framed_thought,Make this sentence less complete and more scene-bound.,"“The lock protects the drawer, but the scratch exposes the hand that opened it.”",“The lock held. Look at the scratch below it. Someone used the wrong key first.”,"The chosen line sounds like inspection, not composition."
+dialogue_away_099,perfectly_framed_thought,Rewrite the over-shaped line into practical speech.,“The alley gives us distance from the street and danger from the roof.”,"“Take the alley, but keep away from the left wall. The roof tiles are loose there.”",The chosen line is immediate and actionable.
+dialogue_away_100,perfectly_framed_thought,Make the line less tidy while keeping its tactical meaning.,"“The bell calls help, but it also tells the wrong men where we are.”",“Do not ring unless someone is under the cart. The bell carries to the yard office.”,The chosen line gives a condition and consequence.
+dialogue_away_101,function_first_revision,"Revise the line as an instruction, not an attitude.",“Make them regret the shortcut.”,"“Block the shortcut with the broken cart. Leave enough room for one man on foot, not two carrying a box.”",The chosen line has a clear function: instruction.
+dialogue_away_102,function_first_revision,"Revise the line as a report, not a punchline.",“The north door has learned discretion.”,“The north door is chained from inside. No fresh scratches on the plate.”,The chosen line reports evidence.
+dialogue_away_103,function_first_revision,Revise the line as an objection grounded in the scene.,“Hope is not a load-bearing wall.”,“That wall is already bowing. Do not stack another crate against it.”,The chosen line functions as an objection and safety warning.
+dialogue_away_104,function_first_revision,"Revise the line as a correction, not a clever contradiction.",“That is not a plan. That is weather with ambition.”,“That only works if the rain holds. The forecast changed an hour ago.”,The chosen line corrects a plan with a concrete condition.
+dialogue_away_105,function_first_revision,Revise the line as an explanation that someone can use.,“Paper is where the knife goes when men are polite.”,"“If they file the complaint before us, we answer their version first. Send ours now.”",The chosen line explains why an action must happen.
+dialogue_away_106,function_first_revision,"Revise the line as an observation, not a slogan.",“The room is lying through its furniture.”,“The chair is too far from the desk for that ink spill. Someone moved it after the bottle broke.”,The chosen line observes spatial evidence.
+dialogue_away_107,function_first_revision,Revise the line as an order with constraints.,“Let the back stair become a question.”,“Use the back stair only after the tenants clear it. No boxes on the landing.”,The chosen line specifies conditions and limits.
+dialogue_away_108,function_first_revision,Revise the line as a warning.,“The quiet is where they hide the cost.”,"“If the motor goes quiet before the belt stops, step back. That means the shaft is still turning.”",The chosen line's function is warning tied to procedure.
+dialogue_away_109,function_first_revision,Revise the line as a request.,“Bring me the truth before it cools.”,“Bring me the delivery book before the driver leaves.”,The chosen line asks for a specific object at a specific time.
+dialogue_away_110,function_first_revision,Revise the line as a consequence.,"“If they open that door, the night has teeth.”","“If they open that door, the dog reaches the yard before we reach the gate.”",The chosen line gives a concrete consequence.
+dialogue_away_111,responses_through_work_not_banter,"Rewrite so the assistant character responds by doing the job, not commenting on the line.","“Send the records.”
+“Now you sound like trouble.”","“Send the records.”
+Anna pulled the carbon sheet from the drawer and checked that the date showed on both copies.",The chosen response shows competence through action.
+dialogue_away_112,responses_through_work_not_banter,Remove sitcom-dry banter and keep the scene in motion.,"“Cut the power.”
+“Always romantic when you say it like that.”","“Cut the power.”
+Bob dried his hands on his shirt before touching the main switch.",The chosen response keeps the danger and task primary.
+dialogue_away_113,responses_through_work_not_banter,Make the response technical rather than quippy.,"“The pump is choking.”
+“Then perhaps stop feeding it soup.”","“The pump is choking.”
+“Intake first,” Mara said. “If the belt were slipping, we would smell rubber.”",The chosen response uses exact technical observation.
+dialogue_away_114,responses_through_work_not_banter,Have the recorder character preserve information instead of admiring phrasing.,"“They counted it twice.”
+“That is a beautiful little crime.”","“They counted it twice.”
+Inez wrote the crate number in the margin and underlined both dates.",The chosen response shows record-keeping competence.
+dialogue_away_115,responses_through_work_not_banter,Replace banter with a trained subordinate repeating a usable order.,"“Hold the side door.”
+“Ah, the glamorous door war.”","“Hold the side door.”
+“Side door stays shut unless the front hall blocks,” Luis said. “If it opens, I keep the cart outside the threshold.”",The chosen response repeats the order with conditions.
+dialogue_away_116,responses_through_work_not_banter,Keep the secondary character from becoming an audience surrogate.,"“Use the complaint file.”
+“That is vicious. I approve.”","“Use the complaint file.”
+Ruth opened the drawer with the old leak reports and set the newest rent notice on top.",The chosen response reveals understanding through filing action.
+dialogue_away_117,responses_through_work_not_banter,"Make dry humor arise from exactness, not a punchline.","“The ladder is unsafe.”
+“Good. I enjoy being murdered by furniture.”","“The ladder is unsafe.”
+“The left foot is shorter,” Theo said. “It will try to throw you right, which is rude but consistent.”",The chosen humor comes from technical exactness.
+dialogue_away_118,responses_through_work_not_banter,Replace clever commentary with classification that changes the work.,"“Mark this urgent.”
+“Urgent, or merely theatrical?”","“Mark this urgent.”
+Mae stamped the form and clipped the doctor’s note to the front so it would not be sorted with rent disputes.",The chosen response makes classification operational.
+dialogue_away_119,responses_through_work_not_banter,"Rewrite the reply so restraint comes from discipline, not clipped affect.","“If they come through the alley?”
+“Stop them.”","“If they come through the alley?”
+“I warn once from the door. If they keep moving, I close the gate and signal the yard.”",The chosen reply is restrained and procedural.
+dialogue_away_120,responses_through_work_not_banter,Make the exchange stay inside the work instead of becoming self-aware.,"“That note matters.”
+“Everything matters when you say it with eyebrows.”","“That note matters.”
+Omar turned it over, copied the delivery time onto the claim form, and left the torn edge visible.",The chosen response uses action to show why the note matters.
